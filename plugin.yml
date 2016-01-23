@@ -1,0 +1,11 @@
+name: Tutorial_5
+main: com.Ufkillsh0t.tutorial.main.Tutorial
+version: 1.0
+description: This is a test plugin
+author: Ufkillsh0t
+authors: [Ufkillsh0t, Henk]
+commands:
+  tutorial:
+    usage: /<command> <args> [opt args]
+    aliases: [tut]
+    description: Message another player!
